@@ -6,9 +6,10 @@ Welcome to my personal portfolio website — a responsive and modern web applica
 
 ## 🚀 Live Demo
 
-👉 [View Portfolio](https://your-portfolio-link.com)
+Explore the fully responsive and interactive version of my portfolio:
 
----
+👉 [🌐 View Live Site](https://your-portfolio-link.com)
+
 
 ## 📌 Features
 
