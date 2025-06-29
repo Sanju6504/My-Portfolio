@@ -56,10 +56,10 @@ portfolio/
 ```
 
 🏁 ## Acknowledgements
-*Bootstrap 5
+#Bootstrap 5
 
-*Font Awesome
+#Font Awesome
 
-*Web3Forms
+#Web3Forms
 
-*Google Fonts
+#Google Fonts
