@@ -63,3 +63,20 @@ portfolio/
 - **Web3Forms** – To handle contact form submissions without backend
 - **Google Fonts** – To enhance typography and visual appeal
 
+
+## 📝 Features
+
+- ✅ Fully responsive and mobile-friendly layout  
+- 🎯 Smooth scrolling navigation  
+- 🎬 Animated project and internship cards   
+- ✉️ Interactive contact form with validation (powered by Web3Forms)   
+
+---
+
+## 📬 Contact
+
+Feel free to connect with me:
+
+- 📧 Email: [sanjuboni6504@gmail.com](mailto:sanjuboni6504@gmail.com)  
+- 📍 Location: Vijayawada, Andhra Pradesh  
+
