@@ -55,11 +55,10 @@ portfolio/
 └── README.md
 ```
 
-🏁 ## Acknowledgements
-#Bootstrap 5
+### 🧩 Tools & Libraries Used
 
-#Font Awesome
+- **Bootstrap 5** – For responsive layout and styling
+- **Font Awesome** – For scalable icons and social logos
+- **Web3Forms** – To handle contact form submissions without backend
+- **Google Fonts** – To enhance typography and visual appeal
 
-#Web3Forms
-
-#Google Fonts
