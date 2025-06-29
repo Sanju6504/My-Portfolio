@@ -1,6 +1,6 @@
 # 💼 Personal Portfolio Website - Boni Sanjay Kumar
 
-Welcome to my personal portfolio website! This responsive and modern web application showcases my skills, projects, certifications, internships, tools I use, and provides a way to connect via an interactive contact form.
+Welcome to my personal portfolio website — a responsive and modern web application that highlights my technical skills, projects (including an internship project completed at CodeClause), certifications, tools I use, and internships. It also features an interactive contact form for seamless connection.
 
 ---
 
