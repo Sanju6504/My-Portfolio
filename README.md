@@ -69,7 +69,7 @@ portfolio/
 - ✅ Fully responsive and mobile-friendly layout  
 - 🎯 Smooth scrolling navigation  
 - 🎬 Animated project and internship cards   
-- ✉️ Interactive contact form with validation (powered by Web3Forms)   
+- ✉️ Interactive contact form with validation  
 
 ---
 
