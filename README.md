@@ -40,7 +40,6 @@ Explore the fully responsive and interactive version of my portfolio:
 ```plaintext
 portfolio/
 │
-├── index.html
 ├── css/
 │ ├── style.css
 │ ├── projects.css
@@ -52,6 +51,7 @@ portfolio/
 │ ├── project2.jpg
 │ ├── project3.jpg
 │
+├── index.html
 │
 └── README.md
 ```
