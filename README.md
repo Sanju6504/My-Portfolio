@@ -8,7 +8,7 @@ Welcome to my personal portfolio website — a responsive and modern web applica
 
 Explore the fully responsive and interactive version of my portfolio:
 
-👉 [🌐 View Live Site]( https://sanju6504.github.io/CodeClauseInternship_My-Digital-Presence/)
+👉 [🌐 View Live Site]( https://sanju6504.github.io/My-Portfolio/)
 
 
 ## 📌 Features
